@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Dynamic Dashboards & Compelling Data Visualization"
+  content : "Our dynamic dashboards offer real-time data insights to keep you informed and in control. With compelling data visualizations, we make it easy to understand complex information at a glance. Experience the power of data-driven decision-making with our intuitive dashboard solutions"
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Begin Your Planning Journey with Us"
     link : "#contact"

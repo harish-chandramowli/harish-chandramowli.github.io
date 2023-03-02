@@ -42,37 +42,32 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "Our Story"
 url = "#about"
 weight = 1
 
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "services"
+#url = "#services"
+#weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "team"
+name = "Dream team"
 url = "#team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
+
+#[[Languages.en.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "contact"
+name = "Let's Connect!"
 url = "#contact"
 weight = 7
 

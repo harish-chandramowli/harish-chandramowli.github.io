@@ -3,25 +3,15 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re A Fashion Tech company.
+  content : "We are not just friends for fashion company, we are a fashion tech powerhouse! Our unique blend of cutting-edge technology and forward-thinking fashion expertise sets us apart as a trailblazer in the industry."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Inventory Optimized
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Unlock the Power of Your Inventory Planning. Drive Profit and Customer Satisfaction with Our Dynamic Dashboards and Expert Solutions
       
       # feature item loop
-    - title : Easy Customization
+    - title : Effortless Inventory Insights
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : With our easy-to-use visualization tools, keeping track of your inventory has never been simpler. Get a quick and accurate overview of your inventory status with a single glance. Say goodbye to tedious inventory management and hello to effortless insights that help you make better decisions.

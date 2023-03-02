@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Inventory management in the fashion industry is no easy task. However, our team is here to assist you in navigating this challenge by utilizing our creative approach to data representation.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Our team comprises exceptional professionals with diverse backgrounds, who are committed to offering insights into historical trends that will aid in forecasting future inventory requirements for various channels
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We're fashion ERP geniuses! We've unlocked the secret to success by simply listening to every customer, understanding their pain points, and leveraging technology to deliver solutions that exceed their expectations
