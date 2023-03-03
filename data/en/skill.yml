@@ -1,19 +1,19 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  title : Why Flaire
+  subtitle : Purpose-built specifically for the fashion industry
   content : Our cutting-edge solutions and expert guidance help brands optimize their inventory processes, boost profits, and increase customer satisfaction. Trust us to help you overcome this costly challenge and thrive in a highly competitive industry
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name : One Place for All Your Inventory
+    - name : Get omni-channel inventory visibility
       percent : 90%
       
     # skill item loop
-    - name :  Past Insight, Future Planning
+    - name :  Reduce excess and obsolete inventory
       percent : 70%
       
     # skill item loop
-    - name :  Intuitive Design. A Seamless User Experience
+    - name :  Seamless Integration and White Glove Customer Support
       percent : 80%
