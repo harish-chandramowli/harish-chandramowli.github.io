@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Your fashion inventory management Transformed with Flaire"
-  content : "We solve fashion brands' most expensive problem: poor inventory and merchandise management !"
+  title : "Regain Control of Your Brand’s Most Valuable Assets."
+  content : "A Modern Inventory Management System That Makes Growing and Managing Your Brand Simple"
   button:
     enable : true
     label : "Explore Us"

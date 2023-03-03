@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Fashion Tech company.
+  title : We’re a Fashion Tech company.
   content : "We are not just friends for fashion company, we are a fashion tech powerhouse! Our unique blend of cutting-edge technology and forward-thinking fashion expertise sets us apart as a trailblazer in the industry."
   feature_item : 
       # feature item loop
